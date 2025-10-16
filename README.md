@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sazid+sheikh;" />
 </h1>
 
-<h3 align="center">A WEB Developer from New Delhi, India.</h3>
+<h3 align="center">A Software Developer from New Delhi, India.</h3>
 
 <br/>
 
@@ -14,11 +14,11 @@
  
  🌱 I’m currently learning **DSA with Java.**
 
- 📷 I'm passionate photographer.
+ 📷 I'm passionate in IoT & Rbotics.
 
  💬 Contact me [Here](https://linktr.ee/sazid_sheikh)
 
- ⚡ Fun fact **Bill gates is my childhood friend in india.**
+ ⚡ Fun fact **Keyboard Taps are my fav music.**
 
  </div>
  

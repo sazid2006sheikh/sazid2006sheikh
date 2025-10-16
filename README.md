@@ -12,7 +12,7 @@
  
  🔭 I’m currently **B.tech CSE student**.
  
- 🌱 I’m currently learning **DSA with Java.**
+ 🌱 I’m currently learning **Crypto & Blockchain Technology.**
 
  📷 I'm passionate in IoT & Rbotics.
 

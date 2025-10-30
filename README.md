@@ -10,13 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently **B.tech CSE student**.
- 
- 🌱 I’m currently learning **Crypto & Blockchain Technology.**
+ 🔭 I’m currently a **B.tech UnderGrad.**
 
- 📷 I'm passionate in IoT & Rbotics.
+ 📷 Passionate in IoT & Robotics engineering.
 
- 💬 Contact me [Here](https://linktr.ee/sazid_sheikh)
+ 💬 Look At My Portfolio Website - ( https://sazidsheikhportfolio.vercel.app/ )
 
  ⚡ Fun fact **Keyboard Taps are my fav music.**
 
@@ -29,8 +27,8 @@
   <a href="https://www.linkedin.com/in/sazid-sheikh-258714283/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="#" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://www.instagram.com/yoursazidd/" target="_blank">
+     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
@@ -45,9 +43,4 @@
 
 <br/>
 
-<!--
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
--->
 <br/>

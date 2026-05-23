@@ -42,8 +42,8 @@ Currently, I’m focused on:
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,figma,tailwind,bootstrap,vscode,github,git,arduino" />
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,python,c,java,nextjs,mysql,firebase,linux,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,figma,tailwind,bootstrap,vscode,github,git,arduino" />
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,python,java,nextjs,mysql,firebase,linux,docker" /><br>
 </div>
 
 <br/>

@@ -16,8 +16,6 @@ Currently, I’m focused on:
  -     🚀 Advancing full-stack development skills
  -     🧠 Writing clean, scalable, maintainable code
  -     🧩 Understanding system design, APIs & application architecture
-  
-🌐 **Portfolio:** 👉 **[https://sazidsheikhportfolio.vercel.app/]**
 
 
  

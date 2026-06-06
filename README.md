@@ -76,7 +76,7 @@ Currently, I’m focused on:
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" height="30"/>
 </td>
 <td>
-<a href="YOUR_PROJECT_LINK">View Live</a>
+<a href="https://tradezen-three.vercel.app/">View Live</a>
 </td>
 </tr>
 

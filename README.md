@@ -87,7 +87,6 @@ Currently, I’m focused on:
 <div align="center"> 
 
 ![sazid2006sheikh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sazid2006sheikh&theme=vue-dark&hide_border=true)
-![sazid2006sheikh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sazid2006sheikh&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 </div>
 
